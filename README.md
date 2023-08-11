@@ -1,7 +1,7 @@
-# Daniel Rojas - Fullstack Developer😄
+# Hola! Mi nombre es Daniel Rojas y soy un Fullstack Developer.
 
 ## Quién soy?🤔
-Soy un apasionado desarrollador Full Stack con una sólida formación universitaria y experiencia en diferentes tecnologías web. Valorando el trabajo en equipo y las metodologías ágiles, colaboro efectivamente con otros profesionales para crear soluciones completas y escalables.
+Soy un apasionado desarrollador Full Stack con formación universitaria y experiencia en diferentes tecnologías web. Valorando el trabajo en equipo y las metodologías ágiles, colaboro efectivamente para crear soluciones completas y escalables.
 
 ## Qué hago?✨
 Como Fullstack Developer, trabajo tanto en el front-end como en el back-end. Tengo conocimientos en HTML, CSS, JavaScript, ReactJS, Next.js 13, Tailwind CSS, y Redux para desarrollar interfaces y aplicaciones web atractivas y funcionales. En el lado del servidor, utilizo Node.js, Express, Sequelize JS, Prisma, y PostgreSQL para crear RESTful APIs, gestionar bases de datos relacionales y garantizar la seguridad de las aplicaciones.
