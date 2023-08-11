@@ -1,4 +1,4 @@
-# Hola! Mi nombre es Daniel Rojas y soy un Fullstack Developer.
+# Hola! Mi nombre es Daniel Rojas
 
 ## Quién soy?🤔
 Soy un apasionado desarrollador Full Stack con formación universitaria y experiencia en diferentes tecnologías web. Valorando el trabajo en equipo y las metodologías ágiles, colaboro efectivamente para crear soluciones completas y escalables.
