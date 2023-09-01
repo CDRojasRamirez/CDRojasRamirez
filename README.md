@@ -13,11 +13,10 @@ Seguir creando soluciones innovadoras y escalables que mejoren la experiencia de
 
 ## Lenguajes y herramientas
   ![ReactJS](https://img.icons8.com/officel/16/react.png)
-  ![Next.js 13](https://img.icons8.com/ios-filled/50/js.png)
-- ![Redux](URL_DE_LA_IMAGEN_DE_REDUX)
-- ![Node.js](URL_DE_LA_IMAGEN_DE_NODE_JS)
-- ![Express](URL_DE_LA_IMAGEN_DE_EXPRESS)
-- ![PostgreSQL](URL_DE_LA_IMAGEN_DE_POSTGRESQL)
+  ![Redux](https://img.icons8.com/ios-filled/50/redux.png)
+  ![Node.js](https://img.icons8.com/fluency/48/node-js.png)
+  ![Express](https://img.icons8.com/color/48/express.png)
+  ![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
 - ![Sequelize JS](URL_DE_LA_IMAGEN_DE_SEQUELIZE_JS)
 - ![Prisma](URL_DE_LA_IMAGEN_DE_PRISMA)
 - ![Figma](URL_DE_LA_IMAGEN_DE_FIGMA)
