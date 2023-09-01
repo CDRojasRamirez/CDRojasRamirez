@@ -2,16 +2,16 @@
 
 Soy un desarrollador Fullstack en el stack PERM♥
 
-## Lo que estoy haciendo✨
+### Lo que estoy haciendo
 - 🔭 Mejoro mis habilidades y aprendo nuevas tecnologías.
 - 🌱 Estoy trabajando en la creación de una plataforma web.
 - 👯 Construyo mi marca personal.
 - 💬 Lidero equipos de desarrollo en la creación de proyectos web.
 
-## Objetivo🔭
+### Objetivo🔭
 Seguir creando soluciones innovadoras y escalables que mejoren la experiencia de los usuarios y contribuyan al avance de la tecnología.
 
-## Lenguajes y herramientas⚡
+### Lenguajes y herramientas⚡
 - ReactJS
 - Next.js 13
 - Redux
@@ -24,7 +24,7 @@ Seguir creando soluciones innovadoras y escalables que mejoren la experiencia de
 - Tailwind CSS
 - Photoshop
 
-## Contacto💬
+### Contacto💬
 Puedes contactarme a través de los siguientes medios:
 - Correo electrónico: cdanielrap@gmail.com
 - LinkedIn: [linkedin.com/in/cdrojasramirez](https://www.linkedin.com/in/cdrojasramirez)
