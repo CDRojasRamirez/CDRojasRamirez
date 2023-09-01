@@ -3,10 +3,10 @@
 Soy un desarrollador Fullstack en el stack PERM♥
 
 ## Lo que estoy haciendo✨
-🔭 Actualmente estoy trabajando con Next 13 y en el aprendizaje de nuevas tecnologías.
-🌱 Actualmente estoy trabajando en la creación de una plataforma web.
-👯 Contruyo mi marca personal.
-💬 Estoy creando contenido en linkedin e instagram.
+-🔭 Actualmente estoy trabajando con Next 13 y en el aprendizaje de nuevas tecnologías.
+-🌱 Actualmente estoy trabajando en la creación de una plataforma web.
+-👯 Contruyo mi marca personal.
+-💬 Estoy creando contenido en linkedin e instagram.
 
 ## A dónde me dirijo?🔭
 Actualmente, estoy enfocado en "Mr Developer", una plataforma web que permite a jóvenes con conocimientos básicos en tecnologías web participar en proyectos colaborativos y adquirir experiencia práctica en un entorno laboral real. Mi objetivo es seguir creando soluciones innovadoras y escalables que mejoren la experiencia de los usuarios y contribuyan al avance de la tecnología.
