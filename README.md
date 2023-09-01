@@ -1,10 +1,12 @@
-# Hola Mundo!👋 Soy Daniel Rojas
+## Hola Mundo!👋 Soy Daniel Rojas
 
-## Quién soy?🤔
-Soy un apasionado desarrollador Full Stack forjado en el bootcamp SoyHenry, también cuento con formación universitaria durante 3años y experiencia en diferentes tecnologías web. Valorando el trabajo en equipo y las metodologías ágiles, colaboro efectivamente para crear soluciones completas y escalables.
+Soy un desarrollador Fullstack en el stack PERM♥
 
-## Qué hago?✨
-Como Fullstack Developer, trabajo tanto en el front-end como en el back-end. Tengo conocimientos en HTML, CSS, JavaScript, ReactJS, Next.js 13, Tailwind CSS, y Redux para desarrollar interfaces y aplicaciones web atractivas y funcionales. En el lado del servidor, utilizo Node.js, Express, Sequelize JS, Prisma, y PostgreSQL para crear RESTful APIs, gestionar bases de datos relacionales y garantizar la seguridad de las aplicaciones.
+## Lo que estoy haciendo✨
+🔭 Actualmente estoy trabajando con Next 13 y en el aprendizaje de nuevas tecnologías.
+🌱 Actualmente estoy trabajando en la creación de una plataforma web.
+👯 Contruyo mi marca personal.
+💬 Estoy creando contenido en linkedin e instagram.
 
 ## A dónde me dirijo?🔭
 Actualmente, estoy enfocado en "Mr Developer", una plataforma web que permite a jóvenes con conocimientos básicos en tecnologías web participar en proyectos colaborativos y adquirir experiencia práctica en un entorno laboral real. Mi objetivo es seguir creando soluciones innovadoras y escalables que mejoren la experiencia de los usuarios y contribuyan al avance de la tecnología.
