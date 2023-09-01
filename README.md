@@ -1,4 +1,4 @@
-# Hola! Mi nombre es Daniel Rojas
+# Hola Mundo!👋 Soy Daniel Rojas
 
 ## Quién soy?🤔
 Soy un apasionado desarrollador Full Stack forjado en el bootcamp SoyHenry, también cuento con formación universitaria durante 3años y experiencia en diferentes tecnologías web. Valorando el trabajo en equipo y las metodologías ágiles, colaboro efectivamente para crear soluciones completas y escalables.
