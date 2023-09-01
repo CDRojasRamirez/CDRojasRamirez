@@ -12,8 +12,8 @@ Soy un desarrollador Fullstack en el stack PERM♥
 Seguir creando soluciones innovadoras y escalables que mejoren la experiencia de los usuarios y contribuyan al avance de la tecnología.
 
 ## Lenguajes y herramientas
-- ![ReactJS](https://img.icons8.com/officel/16/react.png)
-- ![Next.js 13](URL_DE_LA_IMAGEN_DE_NEXT_JS)
+  ![ReactJS](https://img.icons8.com/officel/16/react.png)
+  ![Next.js 13](https://img.icons8.com/ios-filled/50/js.png)
 - ![Redux](URL_DE_LA_IMAGEN_DE_REDUX)
 - ![Node.js](URL_DE_LA_IMAGEN_DE_NODE_JS)
 - ![Express](URL_DE_LA_IMAGEN_DE_EXPRESS)
