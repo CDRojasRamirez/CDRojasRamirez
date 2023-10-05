@@ -27,4 +27,4 @@ Seguir creando soluciones innovadoras y escalables que mejoren la experiencia de
 Puedes contactarme a través de los siguientes medios:
 - Correo electrónico: cdanielrap@gmail.com
 - LinkedIn: [linkedin.com/in/cdrojasramirez](https://www.linkedin.com/in/cdrojasramirez)
-- Portafolio: [danielrr.netlify.app](https://danielrojas.tech)
+- Portafolio: [danielrojas.tech](https://danielrojas.tech)
