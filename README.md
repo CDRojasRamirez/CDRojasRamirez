@@ -11,17 +11,20 @@ Soy un desarrollador Fullstack en el stack PERM♥
 ## Objetivo
 Seguir creando soluciones innovadoras y escalables que mejoren la experiencia de los usuarios y contribuyan al avance de la tecnología.
 
-## Lenguajes y herramientas
-  ![ReactJS](https://img.icons8.com/officel/16/react.png)
-  ![Redux](https://img.icons8.com/ios-filled/50/redux.png)
-  ![Node.js](https://img.icons8.com/fluency/48/node-js.png)
-  ![Express](https://img.icons8.com/color/48/000000/express.png)
-  ![PostgreSQL](https://img.icons8.com/color/48/postgreesql.png)
-- ![Sequelize JS](URL_DE_LA_IMAGEN_DE_SEQUELIZE_JS)
-- ![Prisma](URL_DE_LA_IMAGEN_DE_PRISMA)
-- ![Figma](URL_DE_LA_IMAGEN_DE_FIGMA)
-- ![Tailwind CSS](URL_DE_LA_IMAGEN_DE_TAILWIND_CSS)
-- ![Photoshop](URL_DE_LA_IMAGEN_DE_PHOTOSHOP)
+## Mi Stack de tecnologías.
+- React.js.
+- Node.js.
+- Express.
+- Redux.
+- Sequelize.
+- Prisma ORM.
+- PostgreSQL.
+- Next.js 13.
+- AWS RDS.
+- Clerk.
+- TailwindCSS.
+- Photoshop.
+- Figma.
 
 ### Contacto💬
 Puedes contactarme a través de los siguientes medios:
