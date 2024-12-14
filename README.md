@@ -28,6 +28,6 @@ Seguir creando soluciones innovadoras y escalables que mejoren la experiencia de
 
 ### Contacto💬
 Puedes contactarme a través de los siguientes medios:
-- Correo electrónico: cdanielrap@gmail.com
+- Correo electrónico: cd.rojas.dev@gmail.com
 - LinkedIn: [linkedin.com/in/cdrojasramirez](https://www.linkedin.com/in/cdrojasramirez)
 - Portafolio: [danielrojas.tech](https://danielrojas.tech)
